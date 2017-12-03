@@ -7,8 +7,12 @@ And draws inspiration from [https://github.com/alexandre-garrec/react-swipe-card
 ## To Run the App
 
   - First clone the app.
-  - $npm install
-  - $npm start
+```
+  npm install
+```
+```
+  npm start
+```
 
 This will start the app running on localhost:3000
 The server will restart when there is a change to the code.
